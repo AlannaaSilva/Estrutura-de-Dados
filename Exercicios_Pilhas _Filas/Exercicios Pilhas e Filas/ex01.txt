@@ -1,0 +1,4 @@
+1. Uma pilha implementa o mecanismos de inserção/remoção:
+  a) FIFO b) FIFA c) LIFO d) FFLL e) N.D.A
+
+Resposta: c) LIFO - Last in, first out

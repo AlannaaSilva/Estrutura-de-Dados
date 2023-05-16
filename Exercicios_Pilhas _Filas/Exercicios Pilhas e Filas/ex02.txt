@@ -1,0 +1,4 @@
+2. Uma fila implementa o mecanismo de inserção/remoção:
+  a) FIFO b) FIFA c) LIFO d) FFLL e) N.D.A
+
+Resposta: a) FIFO - First in, first out
